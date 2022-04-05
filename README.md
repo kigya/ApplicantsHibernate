@@ -5,6 +5,8 @@ PostgreSQL + Hibernate + Dao Pattern
 
 ### Query Example
 
+#### JSON Parsing
+
 ```SQL
 with applicants_json (doc) as (
     values (' '::json)
@@ -16,10 +18,12 @@ from applicants_json l
          cross join lateral json_populate_recordset(null::applicants, doc) as p
 on conflict (id) do update
     set (name, surname, patronymic, address, phone_number, marks) =
-            (excluded.name, excluded.surname, excluded.patronymic, excluded.address, excluded."phoneNumber",
-             excluded.marks)
+            (excluded.name, excluded.surname, excluded.patronymic, excluded.address, 
+            excluded.phone_number, excluded.marks)
 ```
 
+
+#### Table Creation
 ```SQL
 create table applicants
 (
