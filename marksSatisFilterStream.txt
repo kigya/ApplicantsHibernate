@@ -1,0 +1,81 @@
+
+
+Abiturient{id=165, 
+ name=Dahlia, 
+ surname=Henrys, 
+ patronymic=null, 
+ address=92540 Ramsey Street, 
+ phoneNumber='+353 (249) 639-1253', 
+ marks=5, 5, 9, 6, 4, 5, 6, 6}
+
+Abiturient{id=177, 
+ name=Annalee, 
+ surname=Overstall, 
+ patronymic=null, 
+ address=0 Hansons Court, 
+ phoneNumber='+46 (527) 860-0715', 
+ marks=5, 4, 5, 5, 4, 7, 9, 9}
+
+Abiturient{id=222, 
+ name=Giuditta, 
+ surname=Skule, 
+ patronymic=null, 
+ address=1 Becker Way, 
+ phoneNumber='null', 
+ marks=9, 4, 7, 6, 4, 4, 5, 8}
+
+Abiturient{id=411, 
+ name=Bryce, 
+ surname=Le Borgne, 
+ patronymic=Ráo, 
+ address=06 Shelley Trail, 
+ phoneNumber='+48 (936) 220-9241', 
+ marks=5, 6, 7, 8, 6, 7, 9, 8}
+
+Abiturient{id=423, 
+ name=Joe, 
+ surname=Ruston, 
+ patronymic=Maëline, 
+ address=4 Lerdahl Hill, 
+ phoneNumber='+62 (707) 493-4143', 
+ marks=5, 4, 5, 8, 6, 7, 4, 6}
+
+Abiturient{id=684, 
+ name=Glen, 
+ surname=Matyukon, 
+ patronymic=Lóng, 
+ address=429 American Ash Crossing, 
+ phoneNumber='+55 (264) 935-3910', 
+ marks=5, 9, 6, 9, 5, 8, 6, 6}
+
+Abiturient{id=716, 
+ name=Ashleigh, 
+ surname=Carletti, 
+ patronymic=Bécassine, 
+ address=71 Eliot Plaza, 
+ phoneNumber='null', 
+ marks=4, 4, 4, 7, 7, 8, 8, 4}
+
+Abiturient{id=824, 
+ name=Cynthea, 
+ surname=Breffitt, 
+ patronymic=null, 
+ address=1 Nancy Alley, 
+ phoneNumber='+371 (160) 540-1798', 
+ marks=6, 4, 5, 6, 9, 8, 9, 9}
+
+Abiturient{id=937, 
+ name=Wynne, 
+ surname=Dyzart, 
+ patronymic=Léane, 
+ address=3114 Graceland Place, 
+ phoneNumber='+254 (120) 872-7562', 
+ marks=5, 4, 9, 7, 9, 5, 8, 9}
+
+Abiturient{id=971, 
+ name=Thatcher, 
+ surname=Dunkley, 
+ patronymic=Styrbjörn, 
+ address=79285 Pennsylvania Court, 
+ phoneNumber='+385 (951) 936-6843', 
+ marks=9, 5, 9, 4, 6, 5, 8, 4}

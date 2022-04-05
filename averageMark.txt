@@ -1,0 +1,2529 @@
+
+
+Abiturient{id=2, 
+ name=Elnar, 
+ surname=Puller, 
+ patronymic=null, 
+ address=32303 Beilfuss Parkway, 
+ phoneNumber='+47 (256) 169-3540', 
+ marks=3, 9, 2, 5, 2, 6, 8, 7}
+
+Abiturient{id=3, 
+ name=Ainsley, 
+ surname=Campagne, 
+ patronymic=Hélène, 
+ address=01961 Northridge Place, 
+ phoneNumber='+33 (261) 551-1944', 
+ marks=2, 3, 9, 9, 9, 0, 6, 8}
+
+Abiturient{id=8, 
+ name=Herrick, 
+ surname=Drakers, 
+ patronymic=Kallisté, 
+ address=23 Crest Line Crossing, 
+ phoneNumber='+7 (643) 733-7427', 
+ marks=2, 5, 6, 7, 4, 5, 3, 8}
+
+Abiturient{id=10, 
+ name=Teresa, 
+ surname=Leas, 
+ patronymic=null, 
+ address=7340 Mendota Point, 
+ phoneNumber='+54 (546) 333-1541', 
+ marks=7, 7, 6, 2, 9, 4, 7, 0}
+
+Abiturient{id=16, 
+ name=Gilbertina, 
+ surname=Steffens, 
+ patronymic=Åsa, 
+ address=81 Forest Dale Point, 
+ phoneNumber='null', 
+ marks=9, 9, 6, 4, 1, 4, 9, 0}
+
+Abiturient{id=23, 
+ name=Crin, 
+ surname=Santello, 
+ patronymic=Örjan, 
+ address=44 Saint Paul Hill, 
+ phoneNumber='+48 (478) 713-8150', 
+ marks=7, 2, 9, 1, 2, 8, 6, 7}
+
+Abiturient{id=26, 
+ name=Hobey, 
+ surname=Slaymaker, 
+ patronymic=null, 
+ address=39 2nd Circle, 
+ phoneNumber='+7 (155) 286-8211', 
+ marks=5, 9, 8, 4, 9, 7, 2, 8}
+
+Abiturient{id=28, 
+ name=Clywd, 
+ surname=Ech, 
+ patronymic=null, 
+ address=6147 Katie Lane, 
+ phoneNumber='+98 (544) 731-7389', 
+ marks=8, 0, 9, 5, 5, 5, 9, 5}
+
+Abiturient{id=36, 
+ name=Urbanus, 
+ surname=Conquer, 
+ patronymic=Clémentine, 
+ address=2342 Manufacturers Point, 
+ phoneNumber='null', 
+ marks=7, 1, 9, 9, 6, 4, 4, 9}
+
+Abiturient{id=37, 
+ name=Frayda, 
+ surname=Fawley, 
+ patronymic=null, 
+ address=61480 Mcguire Way, 
+ phoneNumber='+54 (532) 460-4284', 
+ marks=7, 9, 1, 3, 8, 6, 6, 0}
+
+Abiturient{id=38, 
+ name=Sharline, 
+ surname=Pizer, 
+ patronymic=Valérie, 
+ address=266 Nobel Road, 
+ phoneNumber='+62 (501) 987-6086', 
+ marks=4, 7, 7, 3, 3, 9, 7, 0}
+
+Abiturient{id=48, 
+ name=Tedd, 
+ surname=Moulsdall, 
+ patronymic=Stévina, 
+ address=377 Buhler Center, 
+ phoneNumber='+86 (514) 571-1217', 
+ marks=3, 8, 5, 5, 5, 9, 1, 5}
+
+Abiturient{id=53, 
+ name=Jasmina, 
+ surname=Marris, 
+ patronymic=null, 
+ address=8 Sherman Plaza, 
+ phoneNumber='+420 (285) 340-0099', 
+ marks=8, 9, 4, 4, 4, 7, 9, 0}
+
+Abiturient{id=54, 
+ name=Gayleen, 
+ surname=Harrowsmith, 
+ patronymic=Thérèsa, 
+ address=66 Judy Circle, 
+ phoneNumber='+62 (566) 228-6133', 
+ marks=9, 9, 2, 8, 1, 6, 9, 7}
+
+Abiturient{id=59, 
+ name=Sher, 
+ surname=Olney, 
+ patronymic=Maïly, 
+ address=944 Anthes Trail, 
+ phoneNumber='null', 
+ marks=6, 6, 0, 6, 4, 9, 3, 9}
+
+Abiturient{id=65, 
+ name=Nat, 
+ surname=Marsden, 
+ patronymic=Lorène, 
+ address=6938 Morrow Circle, 
+ phoneNumber='+62 (669) 895-6869', 
+ marks=3, 3, 3, 9, 9, 2, 4, 7}
+
+Abiturient{id=69, 
+ name=Humfrid, 
+ surname=Rattry, 
+ patronymic=null, 
+ address=77407 Northwestern Plaza, 
+ phoneNumber='+381 (955) 199-2165', 
+ marks=7, 3, 9, 7, 7, 7, 1, 8}
+
+Abiturient{id=73, 
+ name=Foss, 
+ surname=Millard, 
+ patronymic=Rachèle, 
+ address=88 Daystar Plaza, 
+ phoneNumber='null', 
+ marks=5, 9, 0, 7, 6, 9, 5, 6}
+
+Abiturient{id=75, 
+ name=Anton, 
+ surname=Januszewski, 
+ patronymic=Maëline, 
+ address=74 Garrison Center, 
+ phoneNumber='null', 
+ marks=2, 2, 8, 6, 9, 6, 4, 7}
+
+Abiturient{id=77, 
+ name=Jaine, 
+ surname=Landy, 
+ patronymic=Garçon, 
+ address=71 Hanover Lane, 
+ phoneNumber='+55 (842) 268-4670', 
+ marks=6, 9, 8, 2, 4, 2, 4, 5}
+
+Abiturient{id=81, 
+ name=Eva, 
+ surname=Spreadbury, 
+ patronymic=null, 
+ address=0 Eagan Avenue, 
+ phoneNumber='+55 (608) 773-6743', 
+ marks=5, 6, 4, 9, 3, 9, 9, 3}
+
+Abiturient{id=84, 
+ name=Frederico, 
+ surname=Abad, 
+ patronymic=Mårten, 
+ address=484 Kennedy Avenue, 
+ phoneNumber='+1 (816) 462-3872', 
+ marks=9, 5, 1, 5, 6, 5, 9, 2}
+
+Abiturient{id=86, 
+ name=Brander, 
+ surname=Wallice, 
+ patronymic=null, 
+ address=951 Cherokee Trail, 
+ phoneNumber='+86 (894) 521-0763', 
+ marks=3, 7, 2, 6, 7, 7, 2, 7}
+
+Abiturient{id=87, 
+ name=Ethelyn, 
+ surname=MacNish, 
+ patronymic=null, 
+ address=45 Steensland Way, 
+ phoneNumber='null', 
+ marks=9, 8, 8, 9, 0, 7, 5, 2}
+
+Abiturient{id=93, 
+ name=Phyllis, 
+ surname=Faich, 
+ patronymic=Léane, 
+ address=3 Debs Park, 
+ phoneNumber='+62 (458) 100-5993', 
+ marks=8, 9, 0, 8, 6, 1, 8, 0}
+
+Abiturient{id=103, 
+ name=Hendrick, 
+ surname=MacKnockiter, 
+ patronymic=Danièle, 
+ address=27 Dovetail Parkway, 
+ phoneNumber='+55 (814) 261-3507', 
+ marks=2, 6, 5, 3, 8, 9, 6, 5}
+
+Abiturient{id=105, 
+ name=Juli, 
+ surname=Haliday, 
+ patronymic=null, 
+ address=782 Huxley Trail, 
+ phoneNumber='+86 (843) 771-1724', 
+ marks=8, 5, 6, 4, 5, 4, 5, 3}
+
+Abiturient{id=108, 
+ name=Hildy, 
+ surname=Cade, 
+ patronymic=Styrbjörn, 
+ address=1495 Fremont Park, 
+ phoneNumber='+256 (882) 200-1617', 
+ marks=8, 9, 6, 5, 0, 0, 9, 5}
+
+Abiturient{id=116, 
+ name=Ynes, 
+ surname=Reary, 
+ patronymic=null, 
+ address=8 Fairview Drive, 
+ phoneNumber='+86 (495) 802-9599', 
+ marks=7, 3, 8, 6, 6, 1, 6, 5}
+
+Abiturient{id=120, 
+ name=Dietrich, 
+ surname=Shildrake, 
+ patronymic=null, 
+ address=41 Eagle Crest Lane, 
+ phoneNumber='null', 
+ marks=0, 3, 8, 9, 4, 8, 7, 1}
+
+Abiturient{id=122, 
+ name=Amory, 
+ surname=Helder, 
+ patronymic=null, 
+ address=4019 Green Pass, 
+ phoneNumber='+47 (186) 199-5900', 
+ marks=6, 7, 5, 9, 2, 9, 9, 8}
+
+Abiturient{id=128, 
+ name=Kirsteni, 
+ surname=Bonevant, 
+ patronymic=null, 
+ address=24 Lyons Center, 
+ phoneNumber='+7 (860) 705-6700', 
+ marks=7, 2, 4, 7, 7, 7, 9, 9}
+
+Abiturient{id=129, 
+ name=Barbe, 
+ surname=Ringham, 
+ patronymic=Börje, 
+ address=9666 Killdeer Alley, 
+ phoneNumber='+972 (700) 179-4988', 
+ marks=5, 8, 9, 6, 4, 1, 2, 6}
+
+Abiturient{id=130, 
+ name=Tillie, 
+ surname=MacCulloch, 
+ patronymic=null, 
+ address=14 Forster Avenue, 
+ phoneNumber='null', 
+ marks=6, 6, 8, 0, 9, 8, 8, 9}
+
+Abiturient{id=131, 
+ name=Arty, 
+ surname=Kilduff, 
+ patronymic=Cécile, 
+ address=1 Nevada Crossing, 
+ phoneNumber='+58 (645) 159-5810', 
+ marks=7, 5, 2, 9, 9, 6, 3, 7}
+
+Abiturient{id=133, 
+ name=Norene, 
+ surname=Shawel, 
+ patronymic=null, 
+ address=3 Talisman Junction, 
+ phoneNumber='+63 (298) 722-0361', 
+ marks=4, 7, 9, 9, 8, 7, 7, 0}
+
+Abiturient{id=138, 
+ name=Adriena, 
+ surname=Yeowell, 
+ patronymic=null, 
+ address=41532 Prentice Trail, 
+ phoneNumber='+57 (484) 586-0665', 
+ marks=9, 9, 5, 6, 4, 3, 2, 9}
+
+Abiturient{id=140, 
+ name=Tades, 
+ surname=Winder, 
+ patronymic=null, 
+ address=4898 Eagan Plaza, 
+ phoneNumber='+55 (828) 981-4847', 
+ marks=9, 7, 0, 4, 9, 7, 8, 0}
+
+Abiturient{id=143, 
+ name=Gert, 
+ surname=Penwarden, 
+ patronymic=Eloïse, 
+ address=66489 Mariners Cove Hill, 
+ phoneNumber='+57 (336) 483-1949', 
+ marks=4, 6, 2, 6, 6, 7, 7, 9}
+
+Abiturient{id=145, 
+ name=Adda, 
+ surname=Bauld, 
+ patronymic=null, 
+ address=851 Susan Center, 
+ phoneNumber='null', 
+ marks=5, 2, 6, 4, 1, 9, 9, 5}
+
+Abiturient{id=149, 
+ name=Shoshana, 
+ surname=Gorham, 
+ patronymic=null, 
+ address=96 Di Loreto Park, 
+ phoneNumber='+7 (367) 116-9437', 
+ marks=2, 9, 8, 7, 6, 1, 4, 5}
+
+Abiturient{id=152, 
+ name=Charles, 
+ surname=Alp, 
+ patronymic=null, 
+ address=33 Sachtjen Terrace, 
+ phoneNumber='+86 (938) 217-9522', 
+ marks=8, 9, 1, 8, 6, 8, 3, 8}
+
+Abiturient{id=155, 
+ name=Gisele, 
+ surname=Skeates, 
+ patronymic=Méryl, 
+ address=20 Village Green Court, 
+ phoneNumber='+380 (417) 768-0622', 
+ marks=9, 6, 6, 5, 0, 8, 3, 7}
+
+Abiturient{id=157, 
+ name=Kerianne, 
+ surname=Bruineman, 
+ patronymic=Garçon, 
+ address=27 Lerdahl Lane, 
+ phoneNumber='+389 (418) 443-0689', 
+ marks=8, 6, 4, 5, 9, 4, 8, 0}
+
+Abiturient{id=158, 
+ name=Stafani, 
+ surname=McAlarney, 
+ patronymic=null, 
+ address=100 Anderson Street, 
+ phoneNumber='+63 (543) 615-6415', 
+ marks=7, 3, 6, 9, 3, 8, 3, 6}
+
+Abiturient{id=159, 
+ name=Shandy, 
+ surname=Fick, 
+ patronymic=null, 
+ address=9 Sugar Point, 
+ phoneNumber='+7 (556) 549-9452', 
+ marks=6, 0, 7, 3, 8, 7, 4, 7}
+
+Abiturient{id=164, 
+ name=Carri, 
+ surname=Holtaway, 
+ patronymic=null, 
+ address=9652 Forest Run Court, 
+ phoneNumber='null', 
+ marks=5, 6, 0, 5, 9, 7, 4, 7}
+
+Abiturient{id=165, 
+ name=Dahlia, 
+ surname=Henrys, 
+ patronymic=null, 
+ address=92540 Ramsey Street, 
+ phoneNumber='+353 (249) 639-1253', 
+ marks=5, 5, 9, 6, 4, 5, 6, 6}
+
+Abiturient{id=169, 
+ name=Tobin, 
+ surname=Gerhts, 
+ patronymic=null, 
+ address=2287 Coleman Place, 
+ phoneNumber='+86 (619) 421-8779', 
+ marks=5, 1, 1, 8, 8, 7, 9, 2}
+
+Abiturient{id=170, 
+ name=Crin, 
+ surname=Ffrench, 
+ patronymic=Kuí, 
+ address=08 Eastwood Junction, 
+ phoneNumber='+47 (218) 270-2369', 
+ marks=0, 2, 6, 7, 4, 9, 7, 9}
+
+Abiturient{id=177, 
+ name=Annalee, 
+ surname=Overstall, 
+ patronymic=null, 
+ address=0 Hansons Court, 
+ phoneNumber='+46 (527) 860-0715', 
+ marks=5, 4, 5, 5, 4, 7, 9, 9}
+
+Abiturient{id=179, 
+ name=Claude, 
+ surname=Cockill, 
+ patronymic=Östen, 
+ address=2 Dapin Point, 
+ phoneNumber='+86 (270) 412-6739', 
+ marks=8, 9, 8, 1, 6, 4, 3, 5}
+
+Abiturient{id=191, 
+ name=Myrtice, 
+ surname=Crain, 
+ patronymic=Andréanne, 
+ address=40335 Summit Way, 
+ phoneNumber='+62 (440) 857-7084', 
+ marks=1, 9, 7, 3, 8, 8, 6, 2}
+
+Abiturient{id=194, 
+ name=Elwood, 
+ surname=Allnatt, 
+ patronymic=Bénédicte, 
+ address=95 Esker Court, 
+ phoneNumber='+48 (511) 128-5767', 
+ marks=0, 7, 7, 8, 7, 3, 6, 4}
+
+Abiturient{id=195, 
+ name=Dietrich, 
+ surname=Putman, 
+ patronymic=Athéna, 
+ address=410 Graedel Circle, 
+ phoneNumber='+7 (133) 441-8265', 
+ marks=3, 9, 1, 9, 1, 7, 7, 6}
+
+Abiturient{id=198, 
+ name=Eldredge, 
+ surname=Breit, 
+ patronymic=Örjan, 
+ address=635 Oak Valley Hill, 
+ phoneNumber='+358 (348) 133-4845', 
+ marks=4, 6, 5, 7, 9, 6, 3, 0}
+
+Abiturient{id=199, 
+ name=Patric, 
+ surname=Carmody, 
+ patronymic=Thérèsa, 
+ address=89577 Saint Paul Pass, 
+ phoneNumber='+7 (614) 807-5273', 
+ marks=4, 2, 9, 9, 5, 1, 8, 8}
+
+Abiturient{id=205, 
+ name=Analiese, 
+ surname=Gidney, 
+ patronymic=Dorothée, 
+ address=2 Macpherson Point, 
+ phoneNumber='null', 
+ marks=8, 6, 9, 1, 6, 8, 8, 0}
+
+Abiturient{id=212, 
+ name=Ivar, 
+ surname=Couldwell, 
+ patronymic=Audréanne, 
+ address=8 Mitchell Alley, 
+ phoneNumber='+7 (897) 377-3208', 
+ marks=1, 8, 9, 9, 5, 1, 2, 8}
+
+Abiturient{id=214, 
+ name=Rupert, 
+ surname=Kisbee, 
+ patronymic=Marie-josée, 
+ address=3145 Arkansas Hill, 
+ phoneNumber='null', 
+ marks=5, 8, 5, 9, 4, 6, 3, 7}
+
+Abiturient{id=215, 
+ name=Reagan, 
+ surname=Scorah, 
+ patronymic=Loïc, 
+ address=8 Pierstorff Pass, 
+ phoneNumber='+62 (797) 190-6667', 
+ marks=8, 0, 7, 5, 9, 5, 3, 4}
+
+Abiturient{id=221, 
+ name=Hagan, 
+ surname=Mawman, 
+ patronymic=null, 
+ address=3 Butternut Trail, 
+ phoneNumber='+385 (439) 972-5684', 
+ marks=5, 7, 7, 5, 3, 7, 7, 8}
+
+Abiturient{id=222, 
+ name=Giuditta, 
+ surname=Skule, 
+ patronymic=null, 
+ address=1 Becker Way, 
+ phoneNumber='null', 
+ marks=9, 4, 7, 6, 4, 4, 5, 8}
+
+Abiturient{id=225, 
+ name=August, 
+ surname=Larchier, 
+ patronymic=Lài, 
+ address=1684 Truax Place, 
+ phoneNumber='+389 (182) 872-4960', 
+ marks=1, 4, 8, 7, 7, 9, 8, 3}
+
+Abiturient{id=226, 
+ name=Oralla, 
+ surname=Joinsey, 
+ patronymic=Intéressant, 
+ address=220 Blackbird Drive, 
+ phoneNumber='+7 (849) 713-2351', 
+ marks=9, 8, 2, 8, 3, 8, 4, 9}
+
+Abiturient{id=230, 
+ name=Giacopo, 
+ surname=Shillabear, 
+ patronymic=null, 
+ address=415 Old Shore Trail, 
+ phoneNumber='+86 (593) 410-4063', 
+ marks=2, 5, 9, 9, 5, 3, 8, 5}
+
+Abiturient{id=232, 
+ name=Holli, 
+ surname=Rentilll, 
+ patronymic=Yénora, 
+ address=3 Briar Crest Center, 
+ phoneNumber='+420 (904) 764-3943', 
+ marks=9, 9, 7, 7, 8, 7, 0, 3}
+
+Abiturient{id=235, 
+ name=Philis, 
+ surname=Golt, 
+ patronymic=null, 
+ address=7 Mendota Circle, 
+ phoneNumber='null', 
+ marks=2, 6, 0, 6, 3, 6, 8, 9}
+
+Abiturient{id=236, 
+ name=Carlyn, 
+ surname=Whenman, 
+ patronymic=null, 
+ address=65966 Service Parkway, 
+ phoneNumber='+86 (766) 569-0590', 
+ marks=1, 9, 8, 2, 4, 4, 9, 3}
+
+Abiturient{id=237, 
+ name=Raynor, 
+ surname=Hare, 
+ patronymic=null, 
+ address=1346 Jana Circle, 
+ phoneNumber='+593 (684) 682-7850', 
+ marks=4, 7, 4, 8, 0, 7, 6, 9}
+
+Abiturient{id=238, 
+ name=Merrile, 
+ surname=Dyment, 
+ patronymic=null, 
+ address=837 Londonderry Center, 
+ phoneNumber='null', 
+ marks=3, 4, 7, 7, 1, 5, 6, 7}
+
+Abiturient{id=242, 
+ name=Emmit, 
+ surname=Cregg, 
+ patronymic=null, 
+ address=9416 Hovde Crossing, 
+ phoneNumber='+994 (723) 214-0108', 
+ marks=5, 7, 2, 6, 9, 4, 4, 9}
+
+Abiturient{id=246, 
+ name=Chandal, 
+ surname=Bordessa, 
+ patronymic=Mylène, 
+ address=62 Arkansas Terrace, 
+ phoneNumber='+7 (853) 917-6156', 
+ marks=3, 6, 1, 7, 5, 6, 8, 9}
+
+Abiturient{id=248, 
+ name=Heywood, 
+ surname=Eland, 
+ patronymic=Mélys, 
+ address=841 Towne Terrace, 
+ phoneNumber='+234 (316) 810-0696', 
+ marks=6, 5, 6, 7, 5, 5, 1, 7}
+
+Abiturient{id=250, 
+ name=Rudyard, 
+ surname=Southon, 
+ patronymic=null, 
+ address=64588 South Pass, 
+ phoneNumber='+505 (892) 832-1342', 
+ marks=7, 0, 9, 3, 9, 3, 9, 4}
+
+Abiturient{id=258, 
+ name=Sharl, 
+ surname=Odda, 
+ patronymic=null, 
+ address=7 Oak Street, 
+ phoneNumber='null', 
+ marks=3, 6, 9, 2, 7, 2, 7, 7}
+
+Abiturient{id=263, 
+ name=Livy, 
+ surname=Ciccottio, 
+ patronymic=null, 
+ address=33 Stuart Pass, 
+ phoneNumber='null', 
+ marks=8, 7, 7, 8, 2, 9, 8, 0}
+
+Abiturient{id=270, 
+ name=Burk, 
+ surname=Croyden, 
+ patronymic=null, 
+ address=78 Sage Hill, 
+ phoneNumber='+55 (361) 276-2323', 
+ marks=3, 5, 3, 8, 1, 9, 4, 7}
+
+Abiturient{id=271, 
+ name=Thedric, 
+ surname=Rea, 
+ patronymic=null, 
+ address=897 Boyd Place, 
+ phoneNumber='+380 (789) 836-6857', 
+ marks=7, 7, 0, 9, 8, 8, 1, 3}
+
+Abiturient{id=276, 
+ name=Warde, 
+ surname=Bilbee, 
+ patronymic=null, 
+ address=253 Coleman Hill, 
+ phoneNumber='+62 (317) 315-3408', 
+ marks=9, 9, 6, 8, 4, 2, 8, 9}
+
+Abiturient{id=278, 
+ name=Gretel, 
+ surname=Starkie, 
+ patronymic=Sòng, 
+ address=8062 Badeau Way, 
+ phoneNumber='null', 
+ marks=9, 7, 7, 8, 6, 7, 6, 1}
+
+Abiturient{id=279, 
+ name=Birdie, 
+ surname=Gwyn, 
+ patronymic=Märta, 
+ address=25 Knutson Plaza, 
+ phoneNumber='null', 
+ marks=9, 4, 8, 9, 9, 0, 6, 7}
+
+Abiturient{id=280, 
+ name=Pedro, 
+ surname=Kornilov, 
+ patronymic=null, 
+ address=2954 Helena Park, 
+ phoneNumber='+355 (442) 398-3123', 
+ marks=4, 4, 5, 3, 9, 5, 6, 8}
+
+Abiturient{id=285, 
+ name=Birgitta, 
+ surname=Louisot, 
+ patronymic=null, 
+ address=95539 Forest Run Parkway, 
+ phoneNumber='+86 (635) 282-0198', 
+ marks=9, 2, 9, 9, 9, 9, 0, 5}
+
+Abiturient{id=287, 
+ name=Jacobo, 
+ surname=Sikorski, 
+ patronymic=null, 
+ address=9792 Wayridge Pass, 
+ phoneNumber='+62 (448) 620-1842', 
+ marks=0, 7, 7, 6, 8, 8, 6, 1}
+
+Abiturient{id=291, 
+ name=Templeton, 
+ surname=Asaaf, 
+ patronymic=Eliès, 
+ address=828 Linden Parkway, 
+ phoneNumber='+62 (917) 185-0042', 
+ marks=9, 7, 9, 4, 2, 8, 5, 9}
+
+Abiturient{id=299, 
+ name=Dieter, 
+ surname=Delgaty, 
+ patronymic=Mélissandre, 
+ address=30 Elka Parkway, 
+ phoneNumber='+967 (324) 792-3892', 
+ marks=2, 7, 3, 7, 7, 1, 7, 9}
+
+Abiturient{id=300, 
+ name=Hamlen, 
+ surname=Handrek, 
+ patronymic=null, 
+ address=85 Stang Hill, 
+ phoneNumber='null', 
+ marks=8, 7, 7, 9, 2, 3, 9, 5}
+
+Abiturient{id=301, 
+ name=Della, 
+ surname=Burnsyde, 
+ patronymic=Clémentine, 
+ address=2520 Grover Road, 
+ phoneNumber='+48 (675) 567-1964', 
+ marks=2, 4, 4, 5, 6, 6, 9, 4}
+
+Abiturient{id=303, 
+ name=Odell, 
+ surname=Doman, 
+ patronymic=null, 
+ address=8743 East Alley, 
+ phoneNumber='+36 (674) 598-4990', 
+ marks=9, 6, 6, 1, 1, 8, 8, 2}
+
+Abiturient{id=304, 
+ name=Elvira, 
+ surname=Guiduzzi, 
+ patronymic=Lèi, 
+ address=82 Beilfuss Hill, 
+ phoneNumber='+263 (965) 987-9758', 
+ marks=0, 8, 6, 0, 9, 9, 1, 9}
+
+Abiturient{id=315, 
+ name=Ericha, 
+ surname=Flack, 
+ patronymic=Gösta, 
+ address=40 Thompson Terrace, 
+ phoneNumber='null', 
+ marks=8, 8, 3, 3, 5, 6, 5, 5}
+
+Abiturient{id=318, 
+ name=Mira, 
+ surname=Shreenan, 
+ patronymic=null, 
+ address=65 Morningstar Court, 
+ phoneNumber='+86 (751) 500-6558', 
+ marks=5, 6, 2, 3, 5, 3, 9, 9}
+
+Abiturient{id=319, 
+ name=Reilly, 
+ surname=von Hagt, 
+ patronymic=Pélagie, 
+ address=93 Carpenter Road, 
+ phoneNumber='+86 (713) 763-8618', 
+ marks=3, 3, 4, 6, 8, 4, 5, 8}
+
+Abiturient{id=320, 
+ name=Evvy, 
+ surname=Keeney, 
+ patronymic=null, 
+ address=73 Brown Plaza, 
+ phoneNumber='+62 (469) 230-4970', 
+ marks=9, 8, 5, 6, 8, 5, 2, 0}
+
+Abiturient{id=322, 
+ name=Lizabeth, 
+ surname=Faichney, 
+ patronymic=Félicie, 
+ address=5226 Spaight Court, 
+ phoneNumber='+86 (673) 319-2843', 
+ marks=9, 6, 7, 7, 2, 1, 4, 6}
+
+Abiturient{id=323, 
+ name=Mozes, 
+ surname=Longstaff, 
+ patronymic=null, 
+ address=29 Tony Drive, 
+ phoneNumber='+62 (861) 829-9527', 
+ marks=0, 9, 5, 4, 2, 8, 7, 7}
+
+Abiturient{id=324, 
+ name=Roosevelt, 
+ surname=Storkes, 
+ patronymic=Örjan, 
+ address=9256 Sycamore Way, 
+ phoneNumber='+502 (286) 566-2662', 
+ marks=7, 9, 7, 4, 7, 5, 3, 7}
+
+Abiturient{id=325, 
+ name=Ynez, 
+ surname=Martijn, 
+ patronymic=Stévina, 
+ address=10 Village Crossing, 
+ phoneNumber='+353 (325) 274-3160', 
+ marks=8, 2, 7, 0, 9, 9, 4, 7}
+
+Abiturient{id=327, 
+ name=Jacinta, 
+ surname=Mergue, 
+ patronymic=Publicité, 
+ address=54 Fordem Park, 
+ phoneNumber='+351 (125) 457-1927', 
+ marks=2, 5, 8, 9, 4, 7, 7, 4}
+
+Abiturient{id=331, 
+ name=Esta, 
+ surname=Sirl, 
+ patronymic=null, 
+ address=0689 Tennessee Plaza, 
+ phoneNumber='+380 (564) 660-3148', 
+ marks=3, 9, 9, 9, 4, 3, 4, 0}
+
+Abiturient{id=334, 
+ name=Merle, 
+ surname=Rostern, 
+ patronymic=Magdalène, 
+ address=579 Maywood Circle, 
+ phoneNumber='+27 (654) 868-8130', 
+ marks=1, 4, 9, 2, 9, 5, 5, 8}
+
+Abiturient{id=340, 
+ name=Neville, 
+ surname=Duell, 
+ patronymic=Aurélie, 
+ address=9253 Fuller Court, 
+ phoneNumber='+62 (820) 683-5020', 
+ marks=6, 3, 6, 6, 7, 4, 9, 1}
+
+Abiturient{id=349, 
+ name=Alex, 
+ surname=Cutler, 
+ patronymic=Cécile, 
+ address=3 Pierstorff Alley, 
+ phoneNumber='+48 (747) 192-8352', 
+ marks=4, 6, 5, 5, 1, 3, 8, 8}
+
+Abiturient{id=350, 
+ name=Leland, 
+ surname=Bowler, 
+ patronymic=null, 
+ address=621 Oriole Road, 
+ phoneNumber='+86 (403) 880-1608', 
+ marks=0, 9, 9, 9, 4, 6, 1, 6}
+
+Abiturient{id=357, 
+ name=Daisey, 
+ surname=Burrells, 
+ patronymic=Adèle, 
+ address=013 Pawling Plaza, 
+ phoneNumber='+251 (649) 413-5773', 
+ marks=6, 6, 4, 9, 3, 2, 6, 7}
+
+Abiturient{id=364, 
+ name=Becki, 
+ surname=Minelli, 
+ patronymic=Andréanne, 
+ address=15 Westend Plaza, 
+ phoneNumber='null', 
+ marks=9, 5, 0, 3, 2, 9, 8, 9}
+
+Abiturient{id=366, 
+ name=Carine, 
+ surname=Tesdale, 
+ patronymic=Faîtes, 
+ address=2609 Fairview Junction, 
+ phoneNumber='+86 (598) 200-5587', 
+ marks=5, 8, 6, 7, 6, 4, 7, 1}
+
+Abiturient{id=374, 
+ name=Bren, 
+ surname=Jankowski, 
+ patronymic=null, 
+ address=509 Di Loreto Alley, 
+ phoneNumber='+880 (102) 769-0724', 
+ marks=4, 8, 1, 1, 9, 2, 9, 6}
+
+Abiturient{id=382, 
+ name=Polly, 
+ surname=Trineman, 
+ patronymic=Mélinda, 
+ address=0 Lotheville Place, 
+ phoneNumber='+62 (795) 178-5081', 
+ marks=6, 6, 6, 1, 3, 6, 8, 4}
+
+Abiturient{id=384, 
+ name=Nilson, 
+ surname=Llop, 
+ patronymic=null, 
+ address=1945 Paget Court, 
+ phoneNumber='+380 (587) 478-2250', 
+ marks=8, 7, 5, 4, 3, 7, 7, 8}
+
+Abiturient{id=387, 
+ name=Trina, 
+ surname=Measor, 
+ patronymic=Maïlis, 
+ address=5 Orin Point, 
+ phoneNumber='+33 (957) 368-4714', 
+ marks=9, 8, 7, 8, 1, 0, 9, 4}
+
+Abiturient{id=394, 
+ name=Kiah, 
+ surname=Rymour, 
+ patronymic=null, 
+ address=44460 Chinook Court, 
+ phoneNumber='+62 (518) 812-2498', 
+ marks=5, 7, 9, 3, 4, 7, 1, 8}
+
+Abiturient{id=397, 
+ name=Nikos, 
+ surname=Goburn, 
+ patronymic=null, 
+ address=016 Nancy Hill, 
+ phoneNumber='+86 (677) 666-8024', 
+ marks=9, 1, 5, 7, 7, 9, 6, 5}
+
+Abiturient{id=400, 
+ name=Georgeanne, 
+ surname=Rettie, 
+ patronymic=null, 
+ address=48355 Talisman Circle, 
+ phoneNumber='+7 (946) 952-4898', 
+ marks=7, 4, 0, 4, 9, 7, 7, 2}
+
+Abiturient{id=409, 
+ name=Broddie, 
+ surname=Sabatini, 
+ patronymic=null, 
+ address=3855 Quincy Court, 
+ phoneNumber='+375 (823) 748-3430', 
+ marks=8, 7, 6, 9, 9, 9, 2, 1}
+
+Abiturient{id=411, 
+ name=Bryce, 
+ surname=Le Borgne, 
+ patronymic=Ráo, 
+ address=06 Shelley Trail, 
+ phoneNumber='+48 (936) 220-9241', 
+ marks=5, 6, 7, 8, 6, 7, 9, 8}
+
+Abiturient{id=412, 
+ name=Alberta, 
+ surname=Burchett, 
+ patronymic=Måns, 
+ address=175 Butternut Place, 
+ phoneNumber='+33 (446) 321-5291', 
+ marks=8, 5, 4, 8, 9, 6, 4, 1}
+
+Abiturient{id=416, 
+ name=Andrew, 
+ surname=Woolger, 
+ patronymic=Léonore, 
+ address=560 School Plaza, 
+ phoneNumber='null', 
+ marks=2, 6, 8, 3, 7, 6, 7, 9}
+
+Abiturient{id=417, 
+ name=Latrina, 
+ surname=Hoovart, 
+ patronymic=null, 
+ address=67 Everett Road, 
+ phoneNumber='+62 (954) 306-1936', 
+ marks=8, 6, 8, 2, 4, 0, 7, 9}
+
+Abiturient{id=420, 
+ name=Joane, 
+ surname=Fowlie, 
+ patronymic=null, 
+ address=22 Mariners Cove Circle, 
+ phoneNumber='+66 (981) 490-3461', 
+ marks=8, 7, 8, 7, 4, 9, 3, 4}
+
+Abiturient{id=421, 
+ name=Marget, 
+ surname=Nower, 
+ patronymic=null, 
+ address=52 Debs Trail, 
+ phoneNumber='+7 (527) 924-9023', 
+ marks=0, 7, 3, 8, 8, 7, 2, 6}
+
+Abiturient{id=423, 
+ name=Joe, 
+ surname=Ruston, 
+ patronymic=Maëline, 
+ address=4 Lerdahl Hill, 
+ phoneNumber='+62 (707) 493-4143', 
+ marks=5, 4, 5, 8, 6, 7, 4, 6}
+
+Abiturient{id=425, 
+ name=Ignazio, 
+ surname=Kernaghan, 
+ patronymic=null, 
+ address=67 Green Ridge Park, 
+ phoneNumber='+54 (218) 107-2926', 
+ marks=4, 0, 3, 8, 7, 4, 8, 6}
+
+Abiturient{id=432, 
+ name=Murielle, 
+ surname=Pero, 
+ patronymic=Geneviève, 
+ address=84 Ilene Point, 
+ phoneNumber='+86 (330) 936-5507', 
+ marks=8, 4, 9, 9, 0, 1, 6, 8}
+
+Abiturient{id=435, 
+ name=Hilly, 
+ surname=Etty, 
+ patronymic=Ophélie, 
+ address=7252 Dovetail Terrace, 
+ phoneNumber='+1 (303) 718-7722', 
+ marks=4, 3, 9, 4, 3, 3, 9, 7}
+
+Abiturient{id=436, 
+ name=Filide, 
+ surname=Daskiewicz, 
+ patronymic=Åke, 
+ address=1 Blue Bill Park Way, 
+ phoneNumber='+86 (455) 340-7833', 
+ marks=9, 6, 2, 9, 7, 5, 8, 7}
+
+Abiturient{id=439, 
+ name=Cooper, 
+ surname=McCadden, 
+ patronymic=null, 
+ address=64025 Ludington Road, 
+ phoneNumber='+81 (943) 294-9156', 
+ marks=7, 3, 7, 5, 8, 7, 3, 0}
+
+Abiturient{id=444, 
+ name=Silvie, 
+ surname=Flounders, 
+ patronymic=null, 
+ address=21325 Superior Plaza, 
+ phoneNumber='+51 (885) 558-5085', 
+ marks=8, 9, 0, 8, 6, 7, 9, 2}
+
+Abiturient{id=448, 
+ name=Igor, 
+ surname=Mewrcik, 
+ patronymic=Almérinda, 
+ address=9266 Homewood Terrace, 
+ phoneNumber='+55 (196) 574-7937', 
+ marks=6, 7, 9, 6, 1, 4, 0, 8}
+
+Abiturient{id=449, 
+ name=Bradley, 
+ surname=Sisley, 
+ patronymic=null, 
+ address=2 Golden Leaf Court, 
+ phoneNumber='+994 (237) 132-0185', 
+ marks=8, 6, 8, 5, 3, 8, 8, 4}
+
+Abiturient{id=450, 
+ name=Merwin, 
+ surname=Syplus, 
+ patronymic=null, 
+ address=1 Ohio Road, 
+ phoneNumber='+420 (168) 584-4787', 
+ marks=4, 8, 4, 8, 6, 4, 7, 1}
+
+Abiturient{id=454, 
+ name=Cletus, 
+ surname=Gissing, 
+ patronymic=Maëlla, 
+ address=3659 Logan Court, 
+ phoneNumber='+55 (670) 923-8449', 
+ marks=7, 3, 8, 4, 3, 3, 7, 9}
+
+Abiturient{id=465, 
+ name=Eugenie, 
+ surname=Benardette, 
+ patronymic=Maëlle, 
+ address=5227 Cottonwood Lane, 
+ phoneNumber='null', 
+ marks=7, 9, 9, 4, 8, 3, 8, 6}
+
+Abiturient{id=466, 
+ name=Noland, 
+ surname=Brannan, 
+ patronymic=null, 
+ address=46728 Weeping Birch Road, 
+ phoneNumber='+54 (325) 641-3098', 
+ marks=6, 9, 2, 5, 5, 2, 4, 9}
+
+Abiturient{id=469, 
+ name=Vita, 
+ surname=Devonish, 
+ patronymic=null, 
+ address=150 Arizona Lane, 
+ phoneNumber='+86 (161) 833-9414', 
+ marks=4, 3, 6, 9, 0, 9, 6, 9}
+
+Abiturient{id=470, 
+ name=Arlene, 
+ surname=Grinsdale, 
+ patronymic=Stévina, 
+ address=094 Kenwood Avenue, 
+ phoneNumber='null', 
+ marks=8, 8, 5, 5, 2, 5, 7, 6}
+
+Abiturient{id=472, 
+ name=Davey, 
+ surname=Piborn, 
+ patronymic=Néhémie, 
+ address=6 Nova Drive, 
+ phoneNumber='+7 (105) 874-8646', 
+ marks=9, 8, 8, 9, 1, 8, 2, 6}
+
+Abiturient{id=473, 
+ name=Olga, 
+ surname=Densun, 
+ patronymic=Léane, 
+ address=6 Mesta Circle, 
+ phoneNumber='+420 (994) 548-0422', 
+ marks=7, 5, 5, 5, 5, 7, 0, 7}
+
+Abiturient{id=477, 
+ name=Rosina, 
+ surname=Yakebovich, 
+ patronymic=Maïly, 
+ address=6943 Shoshone Circle, 
+ phoneNumber='null', 
+ marks=1, 8, 9, 4, 9, 2, 6, 7}
+
+Abiturient{id=480, 
+ name=Korella, 
+ surname=Ricold, 
+ patronymic=null, 
+ address=84 Gerald Way, 
+ phoneNumber='+55 (487) 183-3417', 
+ marks=9, 6, 1, 5, 7, 7, 5, 9}
+
+Abiturient{id=481, 
+ name=Keary, 
+ surname=Rillett, 
+ patronymic=Bénédicte, 
+ address=403 Mockingbird Plaza, 
+ phoneNumber='+86 (707) 925-9363', 
+ marks=5, 5, 2, 6, 8, 1, 6, 8}
+
+Abiturient{id=484, 
+ name=Sarene, 
+ surname=Taft, 
+ patronymic=null, 
+ address=2 Wayridge Parkway, 
+ phoneNumber='+7 (355) 874-5062', 
+ marks=9, 6, 2, 0, 8, 9, 9, 4}
+
+Abiturient{id=488, 
+ name=Nariko, 
+ surname=Amthor, 
+ patronymic=Noëlla, 
+ address=98 Clove Parkway, 
+ phoneNumber='+27 (638) 969-8378', 
+ marks=2, 7, 3, 8, 6, 2, 6, 6}
+
+Abiturient{id=499, 
+ name=Violetta, 
+ surname=Vannacci, 
+ patronymic=null, 
+ address=285 Cordelia Drive, 
+ phoneNumber='+62 (437) 626-2448', 
+ marks=1, 9, 8, 5, 5, 0, 3, 9}
+
+Abiturient{id=508, 
+ name=Ric, 
+ surname=Di Franceshci, 
+ patronymic=Mélanie, 
+ address=50936 Mandrake Road, 
+ phoneNumber='null', 
+ marks=4, 7, 0, 8, 6, 9, 4, 3}
+
+Abiturient{id=510, 
+ name=Vita, 
+ surname=Holbury, 
+ patronymic=null, 
+ address=9 Nancy Trail, 
+ phoneNumber='+62 (403) 738-7899', 
+ marks=2, 7, 5, 4, 9, 7, 6, 4}
+
+Abiturient{id=512, 
+ name=Abelard, 
+ surname=Brockest, 
+ patronymic=null, 
+ address=6 Boyd Hill, 
+ phoneNumber='+504 (538) 169-3446', 
+ marks=3, 8, 9, 6, 8, 0, 1, 8}
+
+Abiturient{id=518, 
+ name=Lela, 
+ surname=Brandassi, 
+ patronymic=null, 
+ address=78 Crowley Alley, 
+ phoneNumber='null', 
+ marks=5, 5, 8, 3, 7, 6, 9, 5}
+
+Abiturient{id=525, 
+ name=Layney, 
+ surname=Shevlan, 
+ patronymic=Loïs, 
+ address=6 Elgar Lane, 
+ phoneNumber='+351 (539) 650-1365', 
+ marks=9, 8, 7, 8, 4, 6, 7, 3}
+
+Abiturient{id=526, 
+ name=Flossy, 
+ surname=Pencot, 
+ patronymic=null, 
+ address=39 Lakewood Gardens Drive, 
+ phoneNumber='null', 
+ marks=0, 6, 5, 6, 8, 8, 9, 4}
+
+Abiturient{id=527, 
+ name=Katina, 
+ surname=Stoodley, 
+ patronymic=null, 
+ address=75148 Arrowood Lane, 
+ phoneNumber='null', 
+ marks=1, 6, 8, 8, 7, 1, 2, 8}
+
+Abiturient{id=530, 
+ name=Nickie, 
+ surname=Yair, 
+ patronymic=null, 
+ address=65158 Troy Avenue, 
+ phoneNumber='+86 (734) 215-6242', 
+ marks=9, 7, 8, 6, 4, 0, 8, 0}
+
+Abiturient{id=535, 
+ name=Christoper, 
+ surname=Minihan, 
+ patronymic=Véronique, 
+ address=87301 Farwell Way, 
+ phoneNumber='null', 
+ marks=3, 6, 7, 9, 5, 8, 3, 4}
+
+Abiturient{id=537, 
+ name=Jarid, 
+ surname=Canty, 
+ patronymic=Maï, 
+ address=0 Autumn Leaf Street, 
+ phoneNumber='+507 (486) 691-2006', 
+ marks=6, 6, 8, 5, 5, 3, 7, 1}
+
+Abiturient{id=538, 
+ name=Zebulon, 
+ surname=Crame, 
+ patronymic=Sòng, 
+ address=85943 Dayton Lane, 
+ phoneNumber='+351 (132) 751-2654', 
+ marks=6, 7, 5, 2, 7, 0, 8, 7}
+
+Abiturient{id=540, 
+ name=Bobbie, 
+ surname=Yorath, 
+ patronymic=Maëlle, 
+ address=61314 Pleasure Hill, 
+ phoneNumber='+46 (495) 644-0436', 
+ marks=9, 9, 9, 2, 5, 8, 9, 0}
+
+Abiturient{id=541, 
+ name=Harriet, 
+ surname=Ballister, 
+ patronymic=null, 
+ address=2791 Hollow Ridge Park, 
+ phoneNumber='+86 (215) 884-9029', 
+ marks=7, 8, 8, 9, 9, 7, 3, 2}
+
+Abiturient{id=543, 
+ name=Ebenezer, 
+ surname=Regan, 
+ patronymic=Maëlann, 
+ address=64894 Kinsman Alley, 
+ phoneNumber='+62 (727) 366-9628', 
+ marks=9, 4, 8, 8, 0, 5, 9, 9}
+
+Abiturient{id=545, 
+ name=Minna, 
+ surname=Luther, 
+ patronymic=null, 
+ address=446 Arizona Pass, 
+ phoneNumber='+60 (414) 655-3791', 
+ marks=7, 9, 6, 7, 6, 8, 3, 8}
+
+Abiturient{id=551, 
+ name=Nevile, 
+ surname=Dowsing, 
+ patronymic=null, 
+ address=4666 Dahle Circle, 
+ phoneNumber='null', 
+ marks=9, 4, 3, 8, 0, 5, 5, 9}
+
+Abiturient{id=556, 
+ name=Patrizia, 
+ surname=Boutcher, 
+ patronymic=null, 
+ address=592 Farwell Pass, 
+ phoneNumber='+95 (666) 752-3263', 
+ marks=2, 6, 6, 7, 8, 3, 0, 9}
+
+Abiturient{id=561, 
+ name=Judye, 
+ surname=Arbuckel, 
+ patronymic=null, 
+ address=38 Londonderry Road, 
+ phoneNumber='+962 (776) 213-8697', 
+ marks=6, 6, 5, 3, 8, 4, 1, 7}
+
+Abiturient{id=562, 
+ name=Golda, 
+ surname=Kyle, 
+ patronymic=Mégane, 
+ address=90101 Becker Alley, 
+ phoneNumber='null', 
+ marks=8, 8, 3, 5, 8, 6, 5, 7}
+
+Abiturient{id=564, 
+ name=Lazaro, 
+ surname=Watt, 
+ patronymic=null, 
+ address=8 Londonderry Center, 
+ phoneNumber='+86 (748) 657-2772', 
+ marks=9, 8, 7, 2, 4, 8, 5, 9}
+
+Abiturient{id=566, 
+ name=Oriana, 
+ surname=Burdess, 
+ patronymic=null, 
+ address=49494 Schurz Trail, 
+ phoneNumber='+7 (515) 791-0173', 
+ marks=1, 7, 7, 3, 4, 5, 9, 4}
+
+Abiturient{id=567, 
+ name=Siegfried, 
+ surname=Hastelow, 
+ patronymic=Maïlys, 
+ address=260 Corben Pass, 
+ phoneNumber='+7 (507) 455-9552', 
+ marks=9, 6, 3, 8, 6, 6, 4, 1}
+
+Abiturient{id=573, 
+ name=Maynord, 
+ surname=Blenkensop, 
+ patronymic=Måns, 
+ address=68 Holy Cross Pass, 
+ phoneNumber='+86 (142) 620-1115', 
+ marks=9, 3, 1, 6, 9, 8, 5, 1}
+
+Abiturient{id=574, 
+ name=Sheeree, 
+ surname=Shambrook, 
+ patronymic=Pò, 
+ address=958 Glacier Hill Avenue, 
+ phoneNumber='+46 (574) 623-7526', 
+ marks=9, 7, 0, 7, 4, 6, 6, 7}
+
+Abiturient{id=575, 
+ name=Izzy, 
+ surname=Divers, 
+ patronymic=null, 
+ address=107 Birchwood Court, 
+ phoneNumber='+66 (304) 457-7677', 
+ marks=1, 9, 6, 7, 9, 1, 7, 1}
+
+Abiturient{id=580, 
+ name=Leigha, 
+ surname=Burnitt, 
+ patronymic=Magdalène, 
+ address=978 Aberg Road, 
+ phoneNumber='+93 (115) 119-4053', 
+ marks=9, 1, 1, 1, 7, 8, 6, 8}
+
+Abiturient{id=582, 
+ name=Rubetta, 
+ surname=Ringrose, 
+ patronymic=Zoé, 
+ address=9713 Hanson Way, 
+ phoneNumber='+381 (732) 127-4775', 
+ marks=9, 4, 3, 8, 0, 3, 9, 8}
+
+Abiturient{id=583, 
+ name=Rosetta, 
+ surname=Ferrai, 
+ patronymic=Göran, 
+ address=47 Arrowood Junction, 
+ phoneNumber='+56 (855) 132-3571', 
+ marks=8, 0, 4, 3, 5, 9, 5, 6}
+
+Abiturient{id=589, 
+ name=Ashbey, 
+ surname=Baselli, 
+ patronymic=Fèi, 
+ address=2 Loeprich Place, 
+ phoneNumber='+974 (625) 847-2707', 
+ marks=6, 8, 3, 0, 5, 6, 7, 8}
+
+Abiturient{id=593, 
+ name=Dody, 
+ surname=Fawlks, 
+ patronymic=null, 
+ address=284 Sullivan Center, 
+ phoneNumber='+46 (699) 963-3759', 
+ marks=3, 9, 2, 9, 4, 1, 8, 7}
+
+Abiturient{id=596, 
+ name=Mozes, 
+ surname=Grigoryev, 
+ patronymic=Kù, 
+ address=05166 Barnett Avenue, 
+ phoneNumber='null', 
+ marks=7, 4, 6, 8, 2, 5, 6, 2}
+
+Abiturient{id=598, 
+ name=Reid, 
+ surname=Foxley, 
+ patronymic=Léone, 
+ address=5961 American Ash Avenue, 
+ phoneNumber='+30 (497) 601-4226', 
+ marks=9, 1, 7, 8, 0, 2, 7, 7}
+
+Abiturient{id=599, 
+ name=Anetta, 
+ surname=Piken, 
+ patronymic=null, 
+ address=455 Gale Junction, 
+ phoneNumber='+86 (352) 831-0616', 
+ marks=7, 6, 4, 2, 7, 1, 8, 9}
+
+Abiturient{id=602, 
+ name=Vinnie, 
+ surname=Vogele, 
+ patronymic=Béatrice, 
+ address=84 Namekagon Road, 
+ phoneNumber='null', 
+ marks=5, 3, 4, 6, 1, 7, 9, 5}
+
+Abiturient{id=603, 
+ name=Waylon, 
+ surname=Minero, 
+ patronymic=Maïlis, 
+ address=94 Merry Court, 
+ phoneNumber='+591 (184) 444-3968', 
+ marks=3, 9, 7, 3, 8, 9, 6, 3}
+
+Abiturient{id=604, 
+ name=Van, 
+ surname=Flexman, 
+ patronymic=Håkan, 
+ address=9276 Cody Park, 
+ phoneNumber='+86 (547) 187-6887', 
+ marks=8, 7, 5, 3, 5, 8, 4, 6}
+
+Abiturient{id=611, 
+ name=Hartwell, 
+ surname=Cumber, 
+ patronymic=null, 
+ address=9 Di Loreto Avenue, 
+ phoneNumber='+86 (699) 624-6642', 
+ marks=5, 1, 4, 5, 7, 8, 5, 9}
+
+Abiturient{id=614, 
+ name=Barnabas, 
+ surname=Cumes, 
+ patronymic=Ophélie, 
+ address=70497 Randy Crossing, 
+ phoneNumber='+43 (546) 197-0707', 
+ marks=5, 9, 4, 8, 7, 3, 3, 2}
+
+Abiturient{id=617, 
+ name=Lyman, 
+ surname=Coolahan, 
+ patronymic=Léane, 
+ address=7536 Clarendon Alley, 
+ phoneNumber='+351 (147) 122-6841', 
+ marks=7, 3, 5, 6, 6, 7, 1, 9}
+
+Abiturient{id=618, 
+ name=Loreen, 
+ surname=Aspey, 
+ patronymic=null, 
+ address=0 Warrior Place, 
+ phoneNumber='+256 (184) 192-6933', 
+ marks=8, 4, 5, 6, 6, 8, 3, 9}
+
+Abiturient{id=619, 
+ name=Hershel, 
+ surname=Vanner, 
+ patronymic=null, 
+ address=82 Glendale Point, 
+ phoneNumber='null', 
+ marks=1, 6, 6, 6, 7, 6, 6, 2}
+
+Abiturient{id=622, 
+ name=Geno, 
+ surname=Roger, 
+ patronymic=null, 
+ address=5 Vidon Road, 
+ phoneNumber='+216 (760) 470-7252', 
+ marks=8, 3, 3, 4, 5, 8, 6, 7}
+
+Abiturient{id=623, 
+ name=Adelind, 
+ surname=Meni, 
+ patronymic=null, 
+ address=78 Debs Trail, 
+ phoneNumber='+972 (295) 523-5636', 
+ marks=8, 5, 3, 8, 8, 9, 7, 3}
+
+Abiturient{id=624, 
+ name=Christiane, 
+ surname=Hazeup, 
+ patronymic=null, 
+ address=8886 Loomis Way, 
+ phoneNumber='null', 
+ marks=7, 1, 6, 2, 8, 7, 6, 9}
+
+Abiturient{id=626, 
+ name=Tonye, 
+ surname=Scarlin, 
+ patronymic=null, 
+ address=767 Lerdahl Drive, 
+ phoneNumber='+249 (197) 284-1190', 
+ marks=0, 8, 4, 9, 9, 2, 8, 2}
+
+Abiturient{id=627, 
+ name=Susi, 
+ surname=Malone, 
+ patronymic=Cléa, 
+ address=15 Sachtjen Point, 
+ phoneNumber='+62 (919) 423-4993', 
+ marks=5, 8, 2, 7, 8, 9, 5, 8}
+
+Abiturient{id=628, 
+ name=Hilton, 
+ surname=Meriott, 
+ patronymic=Pélagie, 
+ address=6035 4th Street, 
+ phoneNumber='null', 
+ marks=3, 7, 5, 6, 5, 4, 9, 7}
+
+Abiturient{id=630, 
+ name=Alysia, 
+ surname=Kemetz, 
+ patronymic=Desirée, 
+ address=14 Northland Drive, 
+ phoneNumber='+81 (485) 444-5582', 
+ marks=8, 4, 1, 9, 7, 4, 7, 4}
+
+Abiturient{id=631, 
+ name=Robinson, 
+ surname=Aloway, 
+ patronymic=Clémence, 
+ address=4 Surrey Park, 
+ phoneNumber='+880 (767) 185-5784', 
+ marks=1, 5, 7, 2, 9, 4, 9, 6}
+
+Abiturient{id=636, 
+ name=Cele, 
+ surname=Bordis, 
+ patronymic=Séverine, 
+ address=9 Erie Hill, 
+ phoneNumber='+976 (919) 640-7256', 
+ marks=2, 4, 6, 3, 9, 9, 3, 8}
+
+Abiturient{id=640, 
+ name=Stewart, 
+ surname=Cordon, 
+ patronymic=Mélia, 
+ address=522 Hoffman Lane, 
+ phoneNumber='null', 
+ marks=4, 5, 7, 5, 8, 8, 7, 2}
+
+Abiturient{id=641, 
+ name=Aeriela, 
+ surname=Knolles-Green, 
+ patronymic=Médiamass, 
+ address=49894 Holy Cross Crossing, 
+ phoneNumber='+55 (791) 903-9803', 
+ marks=0, 8, 1, 8, 6, 9, 5, 9}
+
+Abiturient{id=647, 
+ name=Margie, 
+ surname=Carrel, 
+ patronymic=Léone, 
+ address=112 Forest Way, 
+ phoneNumber='+62 (787) 696-9975', 
+ marks=5, 1, 9, 3, 6, 6, 9, 1}
+
+Abiturient{id=648, 
+ name=Carmelita, 
+ surname=Risebrow, 
+ patronymic=Irène, 
+ address=7 Kim Road, 
+ phoneNumber='+55 (216) 680-4852', 
+ marks=9, 1, 5, 1, 6, 9, 8, 4}
+
+Abiturient{id=649, 
+ name=Rheba, 
+ surname=Welden, 
+ patronymic=Pénélope, 
+ address=17751 Melvin Park, 
+ phoneNumber='+62 (680) 659-6911', 
+ marks=8, 8, 5, 0, 9, 1, 7, 4}
+
+Abiturient{id=650, 
+ name=Titos, 
+ surname=Harmour, 
+ patronymic=Tú, 
+ address=89728 Donald Avenue, 
+ phoneNumber='null', 
+ marks=9, 0, 9, 3, 7, 7, 9, 8}
+
+Abiturient{id=655, 
+ name=Nicola, 
+ surname=Clemmow, 
+ patronymic=null, 
+ address=48 Northport Crossing, 
+ phoneNumber='+66 (173) 617-9347', 
+ marks=8, 3, 9, 5, 0, 5, 3, 8}
+
+Abiturient{id=657, 
+ name=Rick, 
+ surname=Summerley, 
+ patronymic=null, 
+ address=6467 Independence Avenue, 
+ phoneNumber='+86 (943) 109-9209', 
+ marks=4, 5, 6, 4, 1, 9, 6, 8}
+
+Abiturient{id=658, 
+ name=Nananne, 
+ surname=Parminter, 
+ patronymic=Estée, 
+ address=380 Gulseth Hill, 
+ phoneNumber='+84 (204) 368-5174', 
+ marks=9, 3, 6, 4, 4, 8, 2, 4}
+
+Abiturient{id=659, 
+ name=Griffith, 
+ surname=Abbott, 
+ patronymic=null, 
+ address=3352 Clemons Place, 
+ phoneNumber='+82 (617) 670-5877', 
+ marks=3, 5, 2, 6, 7, 6, 8, 5}
+
+Abiturient{id=662, 
+ name=Siward, 
+ surname=Gaiter, 
+ patronymic=Mén, 
+ address=52692 Dahle Way, 
+ phoneNumber='null', 
+ marks=9, 0, 7, 7, 6, 7, 3, 7}
+
+Abiturient{id=664, 
+ name=Isaac, 
+ surname=Gibbie, 
+ patronymic=null, 
+ address=0 Memorial Way, 
+ phoneNumber='+1 (630) 650-1654', 
+ marks=9, 1, 2, 2, 9, 6, 8, 8}
+
+Abiturient{id=665, 
+ name=Giffard, 
+ surname=Cervantes, 
+ patronymic=Zoé, 
+ address=0352 Havey Hill, 
+ phoneNumber='+86 (733) 532-7589', 
+ marks=2, 7, 8, 9, 9, 2, 9, 8}
+
+Abiturient{id=667, 
+ name=Baxter, 
+ surname=Ellerbeck, 
+ patronymic=null, 
+ address=7 Magdeline Lane, 
+ phoneNumber='+1 (485) 175-6464', 
+ marks=5, 0, 8, 9, 6, 9, 2, 3}
+
+Abiturient{id=669, 
+ name=Corrianne, 
+ surname=Brazer, 
+ patronymic=Uò, 
+ address=786 Wayridge Crossing, 
+ phoneNumber='null', 
+ marks=1, 6, 3, 9, 7, 6, 9, 9}
+
+Abiturient{id=670, 
+ name=Delly, 
+ surname=Sedgemond, 
+ patronymic=null, 
+ address=6094 Mitchell Lane, 
+ phoneNumber='+216 (262) 218-0130', 
+ marks=6, 7, 0, 9, 3, 6, 6, 5}
+
+Abiturient{id=682, 
+ name=Kaia, 
+ surname=Stubley, 
+ patronymic=null, 
+ address=4 North Center, 
+ phoneNumber='+231 (583) 677-9026', 
+ marks=9, 3, 5, 9, 8, 6, 7, 0}
+
+Abiturient{id=684, 
+ name=Glen, 
+ surname=Matyukon, 
+ patronymic=Lóng, 
+ address=429 American Ash Crossing, 
+ phoneNumber='+55 (264) 935-3910', 
+ marks=5, 9, 6, 9, 5, 8, 6, 6}
+
+Abiturient{id=687, 
+ name=Dori, 
+ surname=McGaw, 
+ patronymic=null, 
+ address=53826 Manufacturers Court, 
+ phoneNumber='+387 (814) 101-4037', 
+ marks=6, 3, 0, 9, 5, 1, 9, 7}
+
+Abiturient{id=689, 
+ name=Merwin, 
+ surname=Najera, 
+ patronymic=Léonore, 
+ address=6681 Pawling Center, 
+ phoneNumber='null', 
+ marks=9, 0, 9, 5, 7, 8, 1, 6}
+
+Abiturient{id=694, 
+ name=Orville, 
+ surname=O'Bradden, 
+ patronymic=Edmée, 
+ address=5 Eastlawn Circle, 
+ phoneNumber='+1 (904) 593-9483', 
+ marks=7, 5, 2, 2, 6, 9, 7, 6}
+
+Abiturient{id=695, 
+ name=Derry, 
+ surname=Fensome, 
+ patronymic=null, 
+ address=038 Beilfuss Road, 
+ phoneNumber='null', 
+ marks=9, 2, 4, 0, 7, 8, 8, 6}
+
+Abiturient{id=696, 
+ name=Alexia, 
+ surname=Garratty, 
+ patronymic=Mahélie, 
+ address=6405 Sunbrook Road, 
+ phoneNumber='+86 (574) 134-4172', 
+ marks=3, 9, 9, 2, 5, 4, 5, 4}
+
+Abiturient{id=698, 
+ name=Ira, 
+ surname=Whenham, 
+ patronymic=null, 
+ address=9680 Sycamore Trail, 
+ phoneNumber='null', 
+ marks=7, 8, 9, 8, 9, 6, 5, 1}
+
+Abiturient{id=701, 
+ name=Edita, 
+ surname=Clausen-Thue, 
+ patronymic=Fèi, 
+ address=9214 Trailsway Avenue, 
+ phoneNumber='+504 (569) 845-7413', 
+ marks=0, 9, 7, 9, 4, 8, 8, 1}
+
+Abiturient{id=704, 
+ name=Malchy, 
+ surname=Rosell, 
+ patronymic=Örjan, 
+ address=9 Crowley Park, 
+ phoneNumber='+86 (489) 262-5579', 
+ marks=8, 6, 8, 6, 3, 0, 7, 2}
+
+Abiturient{id=707, 
+ name=Lenna, 
+ surname=Cockson, 
+ patronymic=Séréna, 
+ address=1 Porter Circle, 
+ phoneNumber='null', 
+ marks=3, 7, 7, 4, 3, 3, 6, 7}
+
+Abiturient{id=708, 
+ name=Sheppard, 
+ surname=Roobottom, 
+ patronymic=null, 
+ address=7739 Brown Junction, 
+ phoneNumber='+1 (233) 836-1954', 
+ marks=1, 7, 9, 7, 9, 5, 8, 4}
+
+Abiturient{id=709, 
+ name=Kelvin, 
+ surname=Wedlake, 
+ patronymic=null, 
+ address=6279 Novick Avenue, 
+ phoneNumber='+351 (728) 817-3356', 
+ marks=3, 9, 4, 7, 8, 7, 9, 8}
+
+Abiturient{id=714, 
+ name=Jeana, 
+ surname=Barmby, 
+ patronymic=Salomé, 
+ address=8 Golf View Junction, 
+ phoneNumber='+86 (123) 365-1408', 
+ marks=2, 8, 8, 3, 7, 0, 8, 5}
+
+Abiturient{id=715, 
+ name=Donny, 
+ surname=Tinsey, 
+ patronymic=Léone, 
+ address=79 Sundown Junction, 
+ phoneNumber='null', 
+ marks=8, 7, 7, 6, 7, 0, 4, 6}
+
+Abiturient{id=716, 
+ name=Ashleigh, 
+ surname=Carletti, 
+ patronymic=Bécassine, 
+ address=71 Eliot Plaza, 
+ phoneNumber='null', 
+ marks=4, 4, 4, 7, 7, 8, 8, 4}
+
+Abiturient{id=718, 
+ name=Bev, 
+ surname=Carrane, 
+ patronymic=Publicité, 
+ address=11144 Hintze Alley, 
+ phoneNumber='+212 (895) 553-6086', 
+ marks=9, 9, 8, 1, 8, 7, 1, 3}
+
+Abiturient{id=719, 
+ name=Sigfrid, 
+ surname=Jewis, 
+ patronymic=Almérinda, 
+ address=54033 Mallard Park, 
+ phoneNumber='+967 (252) 755-2576', 
+ marks=3, 4, 7, 8, 8, 1, 8, 1}
+
+Abiturient{id=724, 
+ name=Thelma, 
+ surname=Print, 
+ patronymic=null, 
+ address=2 Lakeland Plaza, 
+ phoneNumber='+66 (711) 918-7389', 
+ marks=6, 7, 9, 5, 2, 8, 8, 9}
+
+Abiturient{id=727, 
+ name=Pattie, 
+ surname=Mousdall, 
+ patronymic=Célestine, 
+ address=147 Brown Street, 
+ phoneNumber='null', 
+ marks=2, 3, 9, 5, 4, 8, 8, 1}
+
+Abiturient{id=738, 
+ name=Kellsie, 
+ surname=Gieves, 
+ patronymic=Maïlis, 
+ address=64 Kipling Drive, 
+ phoneNumber='+86 (449) 211-0265', 
+ marks=1, 6, 4, 9, 7, 5, 4, 8}
+
+Abiturient{id=740, 
+ name=Austine, 
+ surname=Spinello, 
+ patronymic=Gisèle, 
+ address=24506 Elka Parkway, 
+ phoneNumber='null', 
+ marks=7, 7, 8, 8, 5, 0, 4, 9}
+
+Abiturient{id=741, 
+ name=Ruben, 
+ surname=Gittoes, 
+ patronymic=Laïla, 
+ address=067 Moulton Road, 
+ phoneNumber='+86 (303) 468-6492', 
+ marks=9, 8, 5, 6, 6, 6, 6, 3}
+
+Abiturient{id=742, 
+ name=Cale, 
+ surname=Coleridge, 
+ patronymic=null, 
+ address=12957 Dixon Alley, 
+ phoneNumber='+7 (506) 419-4120', 
+ marks=7, 9, 0, 8, 5, 7, 2, 3}
+
+Abiturient{id=746, 
+ name=Hanna, 
+ surname=MacGahy, 
+ patronymic=Marylène, 
+ address=7204 Tennessee Pass, 
+ phoneNumber='+691 (888) 662-8508', 
+ marks=6, 5, 1, 4, 8, 2, 7, 7}
+
+Abiturient{id=750, 
+ name=Lynnet, 
+ surname=Sidnell, 
+ patronymic=Åslög, 
+ address=093 Meadow Ridge Lane, 
+ phoneNumber='+1 (205) 936-8038', 
+ marks=9, 9, 0, 0, 3, 8, 9, 8}
+
+Abiturient{id=753, 
+ name=Malinda, 
+ surname=Bussetti, 
+ patronymic=Almérinda, 
+ address=555 Tony Alley, 
+ phoneNumber='+62 (674) 716-1971', 
+ marks=3, 0, 9, 2, 6, 8, 6, 9}
+
+Abiturient{id=758, 
+ name=Melissa, 
+ surname=Thomson, 
+ patronymic=Marie-hélène, 
+ address=5 Lakewood Terrace, 
+ phoneNumber='+220 (972) 945-0109', 
+ marks=4, 8, 5, 1, 8, 8, 4, 8}
+
+Abiturient{id=759, 
+ name=Katya, 
+ surname=Sallnow, 
+ patronymic=null, 
+ address=8492 Hoepker Pass, 
+ phoneNumber='+7 (904) 634-2955', 
+ marks=1, 3, 6, 9, 5, 7, 9, 1}
+
+Abiturient{id=760, 
+ name=Bastian, 
+ surname=Croxon, 
+ patronymic=Aurélie, 
+ address=6939 Walton Pass, 
+ phoneNumber='null', 
+ marks=9, 3, 8, 0, 8, 8, 0, 9}
+
+Abiturient{id=772, 
+ name=Guthry, 
+ surname=Garthside, 
+ patronymic=null, 
+ address=767 Main Pass, 
+ phoneNumber='+47 (550) 738-6494', 
+ marks=9, 9, 0, 1, 9, 5, 0, 7}
+
+Abiturient{id=774, 
+ name=Winifield, 
+ surname=Handforth, 
+ patronymic=André, 
+ address=0030 Village Green Street, 
+ phoneNumber='+51 (613) 204-4901', 
+ marks=5, 4, 1, 3, 8, 8, 2, 9}
+
+Abiturient{id=775, 
+ name=Marwin, 
+ surname=Gianetti, 
+ patronymic=Maïlis, 
+ address=70 Mariners Cove Avenue, 
+ phoneNumber='null', 
+ marks=4, 3, 8, 3, 8, 9, 5, 0}
+
+Abiturient{id=782, 
+ name=Augustina, 
+ surname=Probert, 
+ patronymic=null, 
+ address=74758 Petterle Lane, 
+ phoneNumber='+1 (353) 854-0223', 
+ marks=3, 8, 9, 1, 5, 0, 9, 8}
+
+Abiturient{id=783, 
+ name=Nick, 
+ surname=Rains, 
+ patronymic=Björn, 
+ address=54178 Spohn Road, 
+ phoneNumber='+62 (688) 142-7011', 
+ marks=7, 8, 3, 7, 7, 7, 2, 5}
+
+Abiturient{id=791, 
+ name=Giulia, 
+ surname=Bindin, 
+ patronymic=Gaïa, 
+ address=71098 Graedel Hill, 
+ phoneNumber='+58 (536) 536-9657', 
+ marks=6, 9, 6, 2, 6, 8, 8, 3}
+
+Abiturient{id=792, 
+ name=Tim, 
+ surname=Coard, 
+ patronymic=Laïla, 
+ address=2597 Cambridge Trail, 
+ phoneNumber='+86 (489) 292-7873', 
+ marks=5, 9, 9, 8, 2, 3, 7, 2}
+
+Abiturient{id=799, 
+ name=Hadleigh, 
+ surname=Readmire, 
+ patronymic=null, 
+ address=0963 Gale Center, 
+ phoneNumber='+212 (597) 600-8034', 
+ marks=9, 3, 9, 5, 9, 9, 0, 6}
+
+Abiturient{id=806, 
+ name=Darcey, 
+ surname=Govenlock, 
+ patronymic=null, 
+ address=7 Little Fleur Pass, 
+ phoneNumber='+1 (343) 875-9085', 
+ marks=9, 0, 6, 5, 6, 9, 7, 3}
+
+Abiturient{id=807, 
+ name=Tadeo, 
+ surname=Scroggie, 
+ patronymic=null, 
+ address=795 Bartelt Trail, 
+ phoneNumber='+504 (567) 578-9468', 
+ marks=8, 9, 2, 8, 8, 8, 9, 4}
+
+Abiturient{id=809, 
+ name=Minta, 
+ surname=Fitzroy, 
+ patronymic=Loïca, 
+ address=7261 North Crossing, 
+ phoneNumber='+62 (726) 598-8442', 
+ marks=0, 9, 5, 9, 5, 5, 9, 7}
+
+Abiturient{id=811, 
+ name=Richardo, 
+ surname=Patriche, 
+ patronymic=Pò, 
+ address=84 Dakota Circle, 
+ phoneNumber='+48 (835) 120-9511', 
+ marks=6, 6, 7, 9, 9, 9, 4, 1}
+
+Abiturient{id=812, 
+ name=Roz, 
+ surname=Proven, 
+ patronymic=Edmée, 
+ address=2810 Oak Valley Alley, 
+ phoneNumber='null', 
+ marks=9, 3, 6, 5, 7, 8, 3, 0}
+
+Abiturient{id=818, 
+ name=Seka, 
+ surname=Liddington, 
+ patronymic=null, 
+ address=49 Glacier Hill Hill, 
+ phoneNumber='+86 (861) 111-4543', 
+ marks=1, 1, 8, 9, 8, 7, 2, 7}
+
+Abiturient{id=819, 
+ name=Blondie, 
+ surname=Caillou, 
+ patronymic=Adélie, 
+ address=7 Debra Lane, 
+ phoneNumber='null', 
+ marks=0, 6, 8, 9, 0, 7, 8, 2}
+
+Abiturient{id=820, 
+ name=Wilone, 
+ surname=Monte, 
+ patronymic=Josée, 
+ address=23 Pine View Alley, 
+ phoneNumber='+48 (907) 319-5690', 
+ marks=6, 7, 3, 6, 9, 5, 8, 8}
+
+Abiturient{id=824, 
+ name=Cynthea, 
+ surname=Breffitt, 
+ patronymic=null, 
+ address=1 Nancy Alley, 
+ phoneNumber='+371 (160) 540-1798', 
+ marks=6, 4, 5, 6, 9, 8, 9, 9}
+
+Abiturient{id=829, 
+ name=Zed, 
+ surname=Krier, 
+ patronymic=null, 
+ address=428 Schurz Plaza, 
+ phoneNumber='+1 (561) 824-8268', 
+ marks=8, 6, 8, 5, 1, 9, 5, 0}
+
+Abiturient{id=830, 
+ name=Taddeusz, 
+ surname=Nann, 
+ patronymic=null, 
+ address=3 Transport Drive, 
+ phoneNumber='+63 (678) 857-2219', 
+ marks=1, 9, 3, 5, 9, 6, 2, 9}
+
+Abiturient{id=833, 
+ name=Hedwig, 
+ surname=Linham, 
+ patronymic=null, 
+ address=569 Lakewood Gardens Lane, 
+ phoneNumber='+54 (327) 828-2938', 
+ marks=5, 7, 7, 6, 4, 9, 2, 1}
+
+Abiturient{id=834, 
+ name=Fonz, 
+ surname=Dulany, 
+ patronymic=null, 
+ address=61 Mosinee Place, 
+ phoneNumber='+86 (510) 646-4098', 
+ marks=5, 2, 8, 5, 7, 8, 4, 8}
+
+Abiturient{id=839, 
+ name=Augustine, 
+ surname=Sandes, 
+ patronymic=null, 
+ address=391 Sutteridge Hill, 
+ phoneNumber='null', 
+ marks=8, 7, 0, 0, 7, 8, 8, 2}
+
+Abiturient{id=840, 
+ name=Ede, 
+ surname=Kringe, 
+ patronymic=null, 
+ address=11301 Tennessee Place, 
+ phoneNumber='+255 (316) 473-4487', 
+ marks=3, 7, 8, 5, 1, 6, 3, 8}
+
+Abiturient{id=842, 
+ name=Mohandis, 
+ surname=Ditch, 
+ patronymic=null, 
+ address=3951 Sundown Drive, 
+ phoneNumber='+86 (220) 837-5524', 
+ marks=7, 3, 5, 8, 9, 4, 9, 6}
+
+Abiturient{id=844, 
+ name=Yorgos, 
+ surname=Gitthouse, 
+ patronymic=Maéna, 
+ address=289 Brown Trail, 
+ phoneNumber='null', 
+ marks=7, 9, 3, 4, 6, 6, 9, 7}
+
+Abiturient{id=845, 
+ name=Margaret, 
+ surname=Swatridge, 
+ patronymic=Yè, 
+ address=48491 Canary Street, 
+ phoneNumber='+57 (215) 635-9941', 
+ marks=9, 8, 1, 6, 1, 6, 4, 8}
+
+Abiturient{id=847, 
+ name=Selma, 
+ surname=Lorenzetto, 
+ patronymic=Rébecca, 
+ address=26 Warner Parkway, 
+ phoneNumber='+30 (980) 769-4032', 
+ marks=2, 9, 8, 3, 4, 6, 5, 6}
+
+Abiturient{id=853, 
+ name=Sabina, 
+ surname=Crosier, 
+ patronymic=Kévina, 
+ address=2 Merchant Court, 
+ phoneNumber='+266 (565) 929-7945', 
+ marks=6, 5, 3, 8, 9, 4, 3, 2}
+
+Abiturient{id=856, 
+ name=Addie, 
+ surname=Dorgan, 
+ patronymic=Maëly, 
+ address=60 Dunning Point, 
+ phoneNumber='+86 (365) 567-6119', 
+ marks=9, 1, 2, 9, 7, 8, 8, 5}
+
+Abiturient{id=857, 
+ name=Jobina, 
+ surname=Habbon, 
+ patronymic=Adélaïde, 
+ address=16130 Blackbird Parkway, 
+ phoneNumber='+1 (455) 787-6037', 
+ marks=2, 9, 6, 3, 7, 7, 8, 5}
+
+Abiturient{id=861, 
+ name=Julian, 
+ surname=Learoyde, 
+ patronymic=null, 
+ address=59 Glendale Avenue, 
+ phoneNumber='+1 (519) 327-8805', 
+ marks=7, 6, 0, 8, 8, 7, 9, 1}
+
+Abiturient{id=871, 
+ name=Tessa, 
+ surname=Capper, 
+ patronymic=Måns, 
+ address=71 Bartelt Avenue, 
+ phoneNumber='+63 (381) 457-7536', 
+ marks=3, 6, 6, 1, 7, 2, 8, 8}
+
+Abiturient{id=872, 
+ name=Tamas, 
+ surname=Lanigan, 
+ patronymic=Håkan, 
+ address=28 Annamark Plaza, 
+ phoneNumber='+48 (307) 294-9849', 
+ marks=7, 3, 6, 7, 1, 5, 9, 8}
+
+Abiturient{id=874, 
+ name=Valerie, 
+ surname=Mossman, 
+ patronymic=null, 
+ address=32458 Glendale Court, 
+ phoneNumber='+63 (514) 137-2097', 
+ marks=9, 5, 7, 0, 2, 9, 3, 7}
+
+Abiturient{id=876, 
+ name=Tonie, 
+ surname=Pollard, 
+ patronymic=null, 
+ address=9931 Dakota Lane, 
+ phoneNumber='+380 (917) 711-5284', 
+ marks=8, 6, 9, 7, 7, 2, 8, 9}
+
+Abiturient{id=890, 
+ name=Leola, 
+ surname=Bischof, 
+ patronymic=null, 
+ address=49 Dapin Way, 
+ phoneNumber='+62 (944) 814-8023', 
+ marks=0, 1, 9, 7, 7, 7, 7, 9}
+
+Abiturient{id=895, 
+ name=Agna, 
+ surname=Didsbury, 
+ patronymic=Aloïs, 
+ address=75352 Hovde Court, 
+ phoneNumber='+55 (274) 808-2771', 
+ marks=3, 8, 6, 3, 9, 2, 9, 0}
+
+Abiturient{id=898, 
+ name=Gertrude, 
+ surname=Kernan, 
+ patronymic=null, 
+ address=51637 Pennsylvania Park, 
+ phoneNumber='null', 
+ marks=7, 6, 7, 4, 4, 1, 7, 9}
+
+Abiturient{id=900, 
+ name=Lacee, 
+ surname=Lascelles, 
+ patronymic=null, 
+ address=51724 Del Sol Circle, 
+ phoneNumber='+62 (353) 404-3165', 
+ marks=4, 4, 3, 5, 3, 7, 7, 7}
+
+Abiturient{id=904, 
+ name=Erena, 
+ surname=Faucherand, 
+ patronymic=André, 
+ address=93 Hayes Plaza, 
+ phoneNumber='+351 (958) 282-3861', 
+ marks=6, 2, 3, 6, 7, 7, 6, 9}
+
+Abiturient{id=905, 
+ name=Tania, 
+ surname=Szymaniak, 
+ patronymic=null, 
+ address=30882 Pearson Park, 
+ phoneNumber='+62 (204) 913-7729', 
+ marks=3, 5, 8, 7, 7, 6, 8, 4}
+
+Abiturient{id=911, 
+ name=Rubina, 
+ surname=Bouldon, 
+ patronymic=null, 
+ address=3 Annamark Avenue, 
+ phoneNumber='+351 (400) 928-4740', 
+ marks=9, 1, 8, 1, 9, 0, 9, 9}
+
+Abiturient{id=912, 
+ name=Parrnell, 
+ surname=Janusz, 
+ patronymic=Anaé, 
+ address=133 Arapahoe Junction, 
+ phoneNumber='+230 (636) 469-2335', 
+ marks=8, 4, 4, 0, 8, 8, 5, 9}
+
+Abiturient{id=915, 
+ name=Towny, 
+ surname=Akett, 
+ patronymic=Görel, 
+ address=0839 Golf Terrace, 
+ phoneNumber='+216 (805) 694-6191', 
+ marks=6, 9, 8, 7, 4, 3, 7, 9}
+
+Abiturient{id=916, 
+ name=Eduard, 
+ surname=Pladen, 
+ patronymic=Yè, 
+ address=63697 Sullivan Lane, 
+ phoneNumber='+1 (304) 168-0576', 
+ marks=4, 8, 9, 9, 0, 4, 3, 8}
+
+Abiturient{id=917, 
+ name=Donn, 
+ surname=Marler, 
+ patronymic=Chloé, 
+ address=94087 Parkside Court, 
+ phoneNumber='null', 
+ marks=9, 3, 9, 4, 2, 5, 5, 7}
+
+Abiturient{id=919, 
+ name=Melisa, 
+ surname=Grolmann, 
+ patronymic=null, 
+ address=3179 Di Loreto Crossing, 
+ phoneNumber='null', 
+ marks=8, 4, 8, 1, 2, 9, 5, 6}
+
+Abiturient{id=921, 
+ name=Freddie, 
+ surname=Langeley, 
+ patronymic=null, 
+ address=79 Ruskin Lane, 
+ phoneNumber='+57 (810) 876-3927', 
+ marks=7, 8, 8, 6, 7, 4, 9, 3}
+
+Abiturient{id=922, 
+ name=Adelaide, 
+ surname=Massy, 
+ patronymic=Naéva, 
+ address=858 Sage Court, 
+ phoneNumber='+62 (992) 486-3741', 
+ marks=7, 2, 0, 5, 5, 7, 9, 5}
+
+Abiturient{id=924, 
+ name=Tania, 
+ surname=Bennough, 
+ patronymic=Hélèna, 
+ address=9 Marquette Crossing, 
+ phoneNumber='+98 (472) 328-8575', 
+ marks=6, 6, 4, 6, 0, 9, 1, 8}
+
+Abiturient{id=926, 
+ name=Alissa, 
+ surname=Greeson, 
+ patronymic=null, 
+ address=6 Grayhawk Crossing, 
+ phoneNumber='+81 (155) 634-7507', 
+ marks=7, 1, 9, 8, 6, 6, 8, 6}
+
+Abiturient{id=931, 
+ name=Wally, 
+ surname=Croucher, 
+ patronymic=null, 
+ address=63355 Surrey Plaza, 
+ phoneNumber='+55 (674) 791-6912', 
+ marks=8, 7, 8, 9, 5, 7, 0, 0}
+
+Abiturient{id=932, 
+ name=Julissa, 
+ surname=Chilcotte, 
+ patronymic=null, 
+ address=81791 Dawn Park, 
+ phoneNumber='null', 
+ marks=3, 0, 8, 9, 1, 4, 9, 6}
+
+Abiturient{id=937, 
+ name=Wynne, 
+ surname=Dyzart, 
+ patronymic=Léane, 
+ address=3114 Graceland Place, 
+ phoneNumber='+254 (120) 872-7562', 
+ marks=5, 4, 9, 7, 9, 5, 8, 9}
+
+Abiturient{id=939, 
+ name=Goddart, 
+ surname=Runciman, 
+ patronymic=Eléonore, 
+ address=8933 Sugar Circle, 
+ phoneNumber='+33 (302) 581-1750', 
+ marks=5, 6, 7, 6, 1, 8, 4, 4}
+
+Abiturient{id=941, 
+ name=Aidan, 
+ surname=Ceeley, 
+ patronymic=Nélie, 
+ address=518 Carpenter Court, 
+ phoneNumber='+63 (618) 187-3890', 
+ marks=9, 3, 4, 7, 9, 7, 6, 2}
+
+Abiturient{id=946, 
+ name=Rik, 
+ surname=Vigrass, 
+ patronymic=Mélissandre, 
+ address=331 Crescent Oaks Plaza, 
+ phoneNumber='+48 (835) 513-7368', 
+ marks=9, 6, 8, 1, 5, 6, 8, 3}
+
+Abiturient{id=948, 
+ name=Toddie, 
+ surname=McGuckin, 
+ patronymic=null, 
+ address=85080 Dayton Way, 
+ phoneNumber='+84 (865) 614-9119', 
+ marks=4, 4, 9, 2, 4, 8, 6, 3}
+
+Abiturient{id=949, 
+ name=Bari, 
+ surname=Yateman, 
+ patronymic=Véronique, 
+ address=4 Arkansas Park, 
+ phoneNumber='+86 (778) 507-7042', 
+ marks=8, 1, 9, 0, 6, 0, 8, 9}
+
+Abiturient{id=953, 
+ name=Madonna, 
+ surname=Paliser, 
+ patronymic=Mélia, 
+ address=0 Raven Road, 
+ phoneNumber='+86 (698) 159-8055', 
+ marks=9, 8, 5, 5, 5, 0, 1, 9}
+
+Abiturient{id=956, 
+ name=Ronnie, 
+ surname=Mabe, 
+ patronymic=null, 
+ address=39 7th Junction, 
+ phoneNumber='+46 (574) 215-5963', 
+ marks=3, 5, 9, 1, 6, 8, 9, 6}
+
+Abiturient{id=957, 
+ name=Neils, 
+ surname=Schlagman, 
+ patronymic=null, 
+ address=6208 Packers Court, 
+ phoneNumber='+371 (466) 848-7510', 
+ marks=1, 5, 1, 8, 9, 9, 7, 9}
+
+Abiturient{id=961, 
+ name=Esta, 
+ surname=Sclanders, 
+ patronymic=null, 
+ address=34 Morrow Center, 
+ phoneNumber='null', 
+ marks=9, 2, 8, 3, 8, 5, 6, 1}
+
+Abiturient{id=967, 
+ name=Ruby, 
+ surname=Cleveley, 
+ patronymic=Märta, 
+ address=80 Vermont Pass, 
+ phoneNumber='+1 (504) 698-0220', 
+ marks=6, 6, 5, 9, 5, 1, 4, 8}
+
+Abiturient{id=971, 
+ name=Thatcher, 
+ surname=Dunkley, 
+ patronymic=Styrbjörn, 
+ address=79285 Pennsylvania Court, 
+ phoneNumber='+385 (951) 936-6843', 
+ marks=9, 5, 9, 4, 6, 5, 8, 4}
+
+Abiturient{id=973, 
+ name=Ike, 
+ surname=Grinval, 
+ patronymic=Örjan, 
+ address=07868 Blaine Plaza, 
+ phoneNumber='null', 
+ marks=2, 9, 6, 3, 5, 8, 3, 7}
+
+Abiturient{id=981, 
+ name=Cornie, 
+ surname=Mapstone, 
+ patronymic=Miléna, 
+ address=583 Blue Bill Park Circle, 
+ phoneNumber='+62 (156) 203-2561', 
+ marks=1, 8, 9, 7, 1, 8, 3, 6}
+
+Abiturient{id=982, 
+ name=Harlen, 
+ surname=Allewell, 
+ patronymic=Gwenaëlle, 
+ address=9553 Novick Street, 
+ phoneNumber='+374 (747) 666-4897', 
+ marks=7, 5, 3, 5, 8, 8, 2, 9}
+
+Abiturient{id=983, 
+ name=Rubie, 
+ surname=Dorken, 
+ patronymic=null, 
+ address=6 Dayton Crossing, 
+ phoneNumber='+7 (754) 878-7894', 
+ marks=5, 7, 7, 9, 9, 1, 2, 1}
+
+Abiturient{id=984, 
+ name=Dosi, 
+ surname=Avrahm, 
+ patronymic=Håkan, 
+ address=121 Ruskin Road, 
+ phoneNumber='+30 (877) 727-3064', 
+ marks=7, 6, 8, 0, 0, 9, 5, 7}
+
+Abiturient{id=987, 
+ name=Milissent, 
+ surname=Banasiak, 
+ patronymic=null, 
+ address=669 Crescent Oaks Lane, 
+ phoneNumber='+381 (819) 762-9121', 
+ marks=6, 1, 6, 4, 7, 1, 8, 8}
+
+Abiturient{id=989, 
+ name=Oralla, 
+ surname=Wilshaw, 
+ patronymic=Åke, 
+ address=1066 Independence Court, 
+ phoneNumber='null', 
+ marks=9, 0, 2, 7, 7, 8, 3, 4}
+
+Abiturient{id=990, 
+ name=Etta, 
+ surname=Manes, 
+ patronymic=Erwéi, 
+ address=4370 Scofield Parkway, 
+ phoneNumber='+236 (866) 358-3646', 
+ marks=2, 8, 7, 2, 0, 9, 9, 8}
+
+Abiturient{id=993, 
+ name=Woodrow, 
+ surname=Jorgensen, 
+ patronymic=null, 
+ address=708 Little Fleur Drive, 
+ phoneNumber='+7 (462) 458-3456', 
+ marks=1, 8, 9, 8, 7, 9, 3, 9}
+
+Abiturient{id=998, 
+ name=Celene, 
+ surname=Van Haeften, 
+ patronymic=null, 
+ address=4948 Pankratz Road, 
+ phoneNumber='null', 
+ marks=9, 0, 4, 8, 7, 4, 9, 4}

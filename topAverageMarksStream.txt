@@ -1,0 +1,81 @@
+
+
+Abiturient{id=411, 
+ name=Bryce, 
+ surname=Le Borgne, 
+ patronymic=Ráo, 
+ address=06 Shelley Trail, 
+ phoneNumber='+48 (936) 220-9241', 
+ marks=5, 6, 7, 8, 6, 7, 9, 8}
+
+Abiturient{id=937,
+ name=Wynne,
+ surname=Dyzart,
+ patronymic=Léane,
+ address=3114 Graceland Place,
+ phoneNumber='+254 (120) 872-7562',
+ marks=5, 4, 9, 7, 9, 5, 8, 9}
+
+Abiturient{id=876,
+ name=Tonie,
+ surname=Pollard,
+ patronymic=null,
+ address=9931 Dakota Lane,
+ phoneNumber='+380 (917) 711-5284',
+ marks=8, 6, 9, 7, 7, 2, 8, 9}
+
+Abiturient{id=807,
+ name=Tadeo,
+ surname=Scroggie,
+ patronymic=null,
+ address=795 Bartelt Trail,
+ phoneNumber='+504 (567) 578-9468',
+ marks=8, 9, 2, 8, 8, 8, 9, 4}
+
+Abiturient{id=824,
+ name=Cynthea,
+ surname=Breffitt,
+ patronymic=null,
+ address=1 Nancy Alley,
+ phoneNumber='+371 (160) 540-1798',
+ marks=6, 4, 5, 6, 9, 8, 9, 9}
+
+Abiturient{id=709,
+ name=Kelvin,
+ surname=Wedlake,
+ patronymic=null,
+ address=6279 Novick Avenue,
+ phoneNumber='+351 (728) 817-3356',
+ marks=3, 9, 4, 7, 8, 7, 9, 8}
+
+Abiturient{id=122,
+ name=Amory,
+ surname=Helder,
+ patronymic=null,
+ address=4019 Green Pass,
+ phoneNumber='+47 (186) 199-5900',
+ marks=6, 7, 5, 9, 2, 9, 9, 8}
+
+Abiturient{id=276,
+ name=Warde,
+ surname=Bilbee,
+ patronymic=null,
+ address=253 Coleman Hill,
+ phoneNumber='+62 (317) 315-3408',
+ marks=9, 9, 6, 8, 4, 2, 8, 9}
+
+Abiturient{id=724,
+ name=Thelma,
+ surname=Print,
+ patronymic=null,
+ address=2 Lakeland Plaza,
+ phoneNumber='+66 (711) 918-7389',
+ marks=6, 7, 9, 5, 2, 8, 8, 9}
+
+Abiturient{id=130,
+ name=Tillie,
+ surname=MacCulloch,
+ patronymic=null,
+ address=14 Forster Avenue,
+ phoneNumber='null',
+ marks=6, 6, 8, 0, 9, 8, 8, 9}
